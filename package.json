@@ -1,0 +1,11 @@
+{
+  "name": "js",
+  "version": "0.0.0",
+  "private": true,
+  "main": "server.js",
+  "dependencies": {
+    "async": "^3.2.3",
+    "http": "^0.0.0",
+    "os": "^0.1.2"
+  }
+}
